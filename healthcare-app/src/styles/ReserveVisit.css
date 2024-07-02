@@ -1,0 +1,15 @@
+.reserve-visit-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .reserve-visit-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .reserve-visit-container form {
+    width: 100%;
+    max-width: 600px;
+  }
+  

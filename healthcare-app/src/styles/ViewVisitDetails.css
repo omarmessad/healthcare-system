@@ -1,0 +1,14 @@
+.view-visit-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .view-visit-details-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .view-visit-details-container p {
+    margin: 10px 0;
+  }
+  

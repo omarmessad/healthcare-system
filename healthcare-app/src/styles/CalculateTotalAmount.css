@@ -1,0 +1,15 @@
+.calculate-total-amount-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .calculate-total-amount-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .calculate-total-amount-container form {
+    width: 100%;
+    max-width: 600px;
+  }
+  

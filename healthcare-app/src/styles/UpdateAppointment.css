@@ -1,0 +1,15 @@
+.update-appointment-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .update-appointment-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .update-appointment-container form {
+    width: 100%;
+    max-width: 600px;
+  }
+  

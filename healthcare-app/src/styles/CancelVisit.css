@@ -1,0 +1,15 @@
+.cancel-visit-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cancel-visit-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .cancel-visit-container form {
+    width: 100%;
+    max-width: 600px;
+  }
+  
